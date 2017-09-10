@@ -1,4 +1,4 @@
-# pruebita
+# Vue-profiler
 
 > A Vue.js project
 
