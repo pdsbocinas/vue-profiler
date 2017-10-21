@@ -1,0 +1,64 @@
+{
+	"edad": {
+		"title": "Edad",
+		"description": "Indica cuál es tu rango de edad.",
+    "option": {
+      "one": "Entre 18 y 24 años",
+      "two": "Entre 25 y 34 años",
+      "three": "Más de 35 años"
+    }
+	},
+	"vivienda": {
+		"title": "Vivienda",
+    "description": "Cuéntanos qué tipo de vivienda tienes.",
+    "option": {
+      "one": "Propia",
+      "two": "Propia con hipoteca",
+      "three": "Rentada"
+    }
+	},
+  "tarjetaDeCredito": {
+    "title": "Tarjeta de Credito",
+    "description": "Indica si cuentas con tarjeta de crédito.",
+    "option": {
+      "one": "si",
+      "two": "no"
+    }
+  },
+  "ocupacion": {
+    "title": "Ocupacion",
+    "description": "Cuéntanos cuál es tu ocupación actual.",
+    "option": {
+      "one": "Estudiante",
+      "two": "Ama de casa",
+      "three": "Empleado",
+      "four": "Empresario",
+      "five": "Jubilado"
+    }
+  },
+  "hijos": {
+    "title": "Hijos",
+    "description": "Tenes hijos?",
+    "option": {
+      "one": "si",
+      "two": "no"
+    }
+  },
+  "ingresos": {
+    "title": "Ingresos",
+    "description": "Indica cuál es tu rango de ingresos.",
+    "option": {
+      "one": "Menor a $15,000",
+      "two": "De $15,000 a $50,000",
+      "three": "Mayor a $50,000"
+    }
+  },
+  "automovil": {
+    "title": "Automovil",
+    "description": "tienes automovil?",
+    "option": {
+      "one": "si",
+      "two": "no"
+    }
+  }
+}
